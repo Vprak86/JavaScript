@@ -18,4 +18,15 @@
 
 // console.log(1+2+"3");   //33;
 
-// console.log("1"+2+3);   //123
+// console.log("1"+2+3);   //123 
+
+// equality check == and comparison > < >= <= work defferntly.comparison convert null to a number, treating it as 0;
+
+// console.log(null > 0);  //false
+// console.log(null == 0); //false
+// console.log(null >= 0); //true
+
+//undefined gives false with all the opertaor;
+
+// strict check (===) check both datatype and value;
+

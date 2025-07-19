@@ -40,9 +40,9 @@ label {
   color: #333;
 }
 
-#result-box {
-  margin-top: 20px;
-  padding: 20px;
+.result-box {
+  margin-top: 10px;
+  padding: 10px;
   background-color: #e0f7fa;
   border-left: 5px solid #00796b;
   border-radius: 8px;

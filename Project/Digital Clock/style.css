@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #1a1a1a;
+    color: #00ffcc;
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+#date, #clock {
+    background-color: #000000;
+    padding: 20px 40px;
+    font-size: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 0 15px #00ffcc, 0 0 30px #00ffcc30;
+    letter-spacing: 2px;
+    min-width: 300px;
+    text-align: center;
+}
